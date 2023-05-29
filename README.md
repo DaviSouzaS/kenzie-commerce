@@ -15,3 +15,17 @@ Link do repositório original: https://github.com/grupo-29-t14/e-commerce-grupo-
 Link da documentação no swagger: https://e-commerce29-t14.onrender.com/api/docs/swagger-ui/
 
 Link da documentação no redoc: https://e-commerce29-t14.onrender.com/api/docs/redoc/
+
+As tecnologias utilizadas para o desenvolvimento deste projeto foram:
+
+- python
+- django
+- djangorestframework
+- djangorestframework-simplejwt
+- python-dotenv
+- psycopg2-binary
+- drf-spectacular
+- django-money
+- django-cors-headers
+- dj-database-url
+- gunicorn
